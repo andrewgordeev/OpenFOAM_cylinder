@@ -1,6 +1,6 @@
 # OpenFOAM_cylinder
 
-This repository contains four OpenFOAM case files, which can be readily modified to model any of the configurations presented in my Physics 814 report. A working installation of OpenFOAM (such as from https://openfoam.org/download/) is required to run these. See https://www.openfoam.com/documentation/user-guide for general OpenFOAM instructions.
+This repository contains four OpenFOAM case files, which can be readily modified to model any of the configurations presented in my Physics 814 course project at Duke. A working installation of OpenFOAM (such as from https://openfoam.org/download/) is required to run these. See https://www.openfoam.com/documentation/user-guide for general OpenFOAM instructions.
 
 **Running a case**
 ---------------
